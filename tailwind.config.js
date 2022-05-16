@@ -15,6 +15,7 @@ module.exports = {
           error: "#FA5C5C",
         },
       },
+      // "dark",
       {
         dark: {
           primary: "#D9F99D",
